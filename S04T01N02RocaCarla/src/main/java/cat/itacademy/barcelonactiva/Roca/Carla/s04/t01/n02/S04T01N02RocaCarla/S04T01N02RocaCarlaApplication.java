@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class S04T01N02RocaCarlaApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(S04T01N02RocaCarlaApplication.class, args);
 	}
 
